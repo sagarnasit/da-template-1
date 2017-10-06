@@ -579,7 +579,7 @@ p.vel {
 
 /*--/review--*/
 #review {
-    background: url('../images/test72.jpg')no-repeat 0px 0px;
+	background: #3C3D2D;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -592,12 +592,12 @@ p.vel {
     float: none;
 }
 ul#slider1 p {
-    color: rgba(216, 226, 232, 0.9);
+    color: white;
     font-size: 20px;
     line-height: 33px;
 }
 h3.title,h2.title.review {
-	  color:#5DD28F;
+	  color:#398DE2;
 }
 h4.text {
        background: none;
